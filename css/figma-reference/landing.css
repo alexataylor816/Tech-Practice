@@ -1,0 +1,113 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #f7e7ed;
+  padding: 48px 188px 925px 116px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 258px;
+  top: 450px;
+  width: 885px;
+  height: 174px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 341px;
+  top: 654px;
+  width: 720px;
+  height: 60px;
+}
+.cta-button {
+  background: #a8ff35;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 611px;
+  top: 803px;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+}
+.navigation-bar {
+  padding: 16px 40px 16px 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1280px;
+  position: absolute;
+  left: 80px;
+  top: 30px;
+  overflow: hidden;
+}
+.budt-748 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: relative;
+}
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
